@@ -1,4 +1,4 @@
-# ModuleRequester_RecipeOverride
+# Module Requester Recipe Override
 ![mod thumbnail](https://raw.githubusercontent.com/Wyrrrd/ModuleRequester_RecipeOverride/master/thumbnail.png)
 
 (Please note: This is a quick and dirty port to 0.18. As soon as the original is ported to 0.18, this will be removed.)
